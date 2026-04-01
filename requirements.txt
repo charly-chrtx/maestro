@@ -1,0 +1,6 @@
+requests
+llama-cpp-python
+numpy
+pyaudio
+vosk
+faster-whisper
